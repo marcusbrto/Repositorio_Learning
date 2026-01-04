@@ -1,4 +1,4 @@
-Algoritmo "Combinações"
+Algoritmo "CombinaÃ§Ãµes"
 Var
    C1,C2 : Inteiro
 Inicio
