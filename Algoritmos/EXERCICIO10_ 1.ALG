@@ -6,7 +6,7 @@ Var
 
 Inicio
    EscrevaL("--------------------------")
-   EscrevaL("    Escola Puta Merda     ")
+   EscrevaL("    Escola                ")
    EscrevaL("--------------------------")
    Escreva("Quantos alunos a turma tem? ")
    leia(qnt)
