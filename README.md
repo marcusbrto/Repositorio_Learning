@@ -1,6 +1,6 @@
-# Repositorio_Learning
-Repositório de Projetos de Cursos
+# Repositorio de Algoritmos
+Repositório de Projetos de Curso.
 
-Este repositório contém projetos desenvolvidos durante cursos que realizei, com foco em aprendizado, prática e evolução contínua em programação e tecnologia.
+Este repositório contém projetos desenvolvidos durante o curso de algoritmos que realizei, com foco em aprendizado, prática e evolução contínua em programação e tecnologia.
 
-Os projetos variam conforme o curso e a tecnologia estudada e têm finalidade educacional.
+Os projetos foram feitas no visualg3.0.7.
