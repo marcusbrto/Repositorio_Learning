@@ -27,14 +27,6 @@ Todos os algoritmos foram desenvolvidos e testados utilizando essa ferramenta.
 
 ---
 
-### Acesso ao repositório
-
-O projeto está disponível no GitHub:
-
-* [https://github.com/marcusbrto/Algoritmos](https://github.com/marcusbrto/Algoritmos)
-
----
-
 ### Como clonar o repositório
 
 Para baixar o repositório na sua máquina local, utilize o comando:
